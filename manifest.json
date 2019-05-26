@@ -1,5 +1,5 @@
 {
-	"files": {
+    "files": {
 		"config.json": {
 			"overwrite": false,
 			"hash": "18125fe98dbe4207f0d71adf0ddd37d7dc018397bd733dd626e7b849fec61394"
@@ -13,12 +13,11 @@
 		"README.MD": "59ea2249da50579a15080ba9c3a0dd00ae98b3411bbefae9bc57d205478ebbd6"
 	},
 	"defs": {
-		"C_USE_SERVANT_FEED_ITEM": 1,
-		"S_INVEN": 18,
+		"C_REQUEST_USER_PAPERDOLL_INFO": 1,
+		"S_DUNGEON_CLEAR_COUNT_LIST": 1,
 		"S_LOAD_CLIENT_USER_SETTING": "raw",
 		"S_LOGIN": 13,
-		"S_REQUEST_SERVANT_INFO_LIST": "raw",
-		"S_REQUEST_SPAWN_SERVANT": 1,
-		"S_UPDATE_SERVANT_INFO": 1
+		"S_OTHER_USER_APPLY_PARTY": 1,
+		"S_USER_PAPERDOLL_INFO": 8
 	}
 }
