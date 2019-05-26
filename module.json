@@ -1,0 +1,13 @@
+{
+	"disableAutoUpdate": false,
+	"name": "inspect-dg-clears",
+	"author": "LilacTree",
+	"description": "Prints out a list of how many dungeon clears a player has when you inspect them or when they apply to your LFG group in your console",
+	"version": "5/25/2019",
+	"options": {
+		"niceName": "Inspect DG Clears",
+		"guiName": "Inspect DG Clears"
+	},
+	"servers": ["https://raw.githubusercontent.com/LilacTree/inspect-dg-clears/master/"],
+	"supportUrl": "https://github.com/LilacTree/inspect-dg-clears/issues"
+}
