@@ -18,7 +18,7 @@ module.exports = function InspectDGClears(mod) {
 	command.add('inspect', {
 		$none() {
 			enabled = !enabled;
-			command.message(`Inspect DG Clears Modlue is now: ${enabled ? "enabled" : "disabled"}.`);
+			command.message(`Inspect DG Clears Module is now: ${enabled ? "enabled" : "disabled"}.`);
 		},
 		$default() {
 			command.message("Invalid command! See README for the list of valid commands.")

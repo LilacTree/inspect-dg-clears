@@ -1,5 +1,5 @@
 # inspect-dg-clears
-TERA-proxy module for TERA Online that prints out a list of how many dungeon clears a player has when you inspect them or when they apply to your LFG group.
+TERA-proxy module for TERA Online that prints out a list of how many dungeon clears a player has when you inspect them or when they apply to your LFG group. Also, you have a toggle option to look at their Moongourd history.
 
 ## Commands
 List of in-game commands (use in /proxy or /8 channel):  
